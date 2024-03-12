@@ -73,6 +73,5 @@ If the project is created successfully, your DevOps homes screen will look somet
 
 Open the project. Notice that there are a number of options related to the DevOps, CICD and other processes discussed earlier.
 
-![](images/09%20Opening%20Menu.png?raw=true
-)
+![](images/09%20Opening%20Menu.png?raw=true)
 
