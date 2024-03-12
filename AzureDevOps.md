@@ -69,7 +69,7 @@ Create the project (note this screenshot is of a different project) and then wai
 
 If the project is created successfully, your DevOps homes screen will look something like this.
 
-![](images/08%20Project%20Created.png?ra w=true)
+![](images/08%20Project%20Created.png?raw=true)
 
 Open the project. Notice that there are a number of options related to the DevOps, CICD and other processes discussed earlier.
 
